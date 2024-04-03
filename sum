@@ -1,3 +1,5 @@
+// SUM AND DIFF OF TWO NUMBER
+
 #include<stdio.h>
 int main(){
 int a,b;
@@ -6,6 +8,10 @@ scanf("%d",&a);
 printf("enter the second number: ");
 scanf("%d",&b);
 printf("sum of two number: %d",a+b);
+printf("diff of two number %d",a-b);
 return 0;
 }
+<<<<<<< HEAD
 // END  
+=======
+>>>>>>> hey
