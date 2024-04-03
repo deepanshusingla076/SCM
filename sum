@@ -1,3 +1,5 @@
+// SUM OF TWO NUMBER
+
 #include<stdio.h>
 int main(){
 int a,b;
@@ -8,4 +10,3 @@ scanf("%d",&b);
 printf("sum of two number: %d",a+b);
 return 0;
 }
-..
